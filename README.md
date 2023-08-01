@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mash
-- 👀 I’m interested in coding, music, sports 
+- 👀 I’m interested in coding, reading, game, music, sports 
 - 🌱 I’m currently learning multi-media & computer science
 - 📫 How to reach me mashwoodev@gmail.com
 
