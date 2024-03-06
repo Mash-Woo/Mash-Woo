@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mash
 - ✨ I'm from Vietnam
 - 👀 I’m interested in coding, reading, games, music, sports 
-- 🌱 I’m currently learning multi-media & computer science
 - 📫 For work mashyuvn@gmail.com
 
 <!---
