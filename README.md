@@ -2,7 +2,7 @@
 - ✨ I'm from Vietnam
 - 👀 I’m interested in coding, reading, games, music, sports 
 - 🌱 I’m currently learning multi-media & computer science
-- 📫 How to reach me mashwoodev@gmail.com
+- 📫 For work mashyuvn@gmail.com
 
 <!---
 Mash-Woo/Mash-Woo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
